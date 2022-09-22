@@ -1,0 +1,7 @@
+﻿  PerimeterSquare.c
+C:\Users\123\Desktop\HomeWork\Rabora1\PerimeterSquare.c(7,7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork\Rabora1\PerimeterSquare.c(8,7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork\Rabora1\PerimeterSquare.c(9,7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork\Rabora1\PerimeterSquare.c(13,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\123\Desktop\HomeWork\Rabora1\PerimeterSquare.c(15,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Rabora1.vcxproj -> C:\Users\123\Desktop\HomeWork\x64\Debug\Rabora1.exe

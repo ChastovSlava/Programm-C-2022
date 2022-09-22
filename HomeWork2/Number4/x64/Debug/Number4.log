@@ -1,0 +1,3 @@
+﻿  3Exams.c
+C:\Users\123\Desktop\HomeWork2\Number4\3Exams.c(23,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Number4.vcxproj -> C:\Users\123\Desktop\HomeWork2\x64\Debug\Number4.exe

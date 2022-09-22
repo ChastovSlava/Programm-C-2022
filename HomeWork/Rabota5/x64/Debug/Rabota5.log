@@ -1,0 +1,6 @@
+﻿  Nomer5.c
+C:\Users\itmm-2213-a\Desktop\HomeWork\Rabota5\Nomer5.c(8,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "float *"
+C:\Users\itmm-2213-a\Desktop\HomeWork\Rabota5\Nomer5.c(9,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "float *"
+C:\Users\itmm-2213-a\Desktop\HomeWork\Rabota5\Nomer5.c(12,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  LINK : не найден или не выполнена сборка C:\Users\itmm-2213-a\Desktop\HomeWork\x64\Debug\Rabota5.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Rabota5.vcxproj -> C:\Users\itmm-2213-a\Desktop\HomeWork\x64\Debug\Rabota5.exe

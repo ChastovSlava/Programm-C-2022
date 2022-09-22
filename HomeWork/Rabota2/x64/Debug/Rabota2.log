@@ -1,0 +1,2 @@
+﻿Rabota2.obj : error LNK2005: main уже определен в 3Chisla.obj
+C:\Users\123\Desktop\HomeWork\x64\Debug\Rabota2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

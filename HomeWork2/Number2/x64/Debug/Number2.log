@@ -1,0 +1,9 @@
+﻿  Pseudocode.c
+C:\Users\123\Desktop\HomeWork2\Number2\Pseudocode.c(8,18): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\123\Desktop\HomeWork2\Number2\Pseudocode.c(8,24): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\123\Desktop\HomeWork2\Number2\Pseudocode.c(9,16): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\123\Desktop\HomeWork2\Number2\Pseudocode.c(13,17): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\123\Desktop\HomeWork2\Number2\Pseudocode.c(24,21): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\123\Desktop\HomeWork2\Number2\Pseudocode.c(24,28): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\123\Desktop\HomeWork2\Number2\Pseudocode.c(43,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Number2.vcxproj -> C:\Users\123\Desktop\HomeWork2\x64\Debug\Number2.exe
