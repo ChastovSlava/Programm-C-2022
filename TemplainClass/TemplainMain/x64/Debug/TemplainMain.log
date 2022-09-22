@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\itmm-2213-a\source\repos\TemplainClass\TemplainMain\Source.c(7,2): error C2198: printf: слишком мало аргументов для вызова
+C:\Users\itmm-2213-a\source\repos\TemplainClass\TemplainMain\Source.c(8,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"

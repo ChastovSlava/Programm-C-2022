@@ -1,0 +1,4 @@
+﻿  Tochki.c
+C:\Users\itmm-2213-a\source\repos\TemplainClass\Solution\Tochki.c(20,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+Tochki.obj : error LNK2005: main уже определен в SquareMedium.obj
+C:\Users\itmm-2213-a\source\repos\TemplainClass\x64\Debug\Solution.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
